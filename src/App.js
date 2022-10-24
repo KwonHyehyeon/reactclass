@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          리액트 시작입니다.
+          리액트 시작
         </p>
       </header>
     </div>
