@@ -21,7 +21,7 @@ function Slider() {
         <SwiperSlide>
           <div class="desc">
             <span>STORE</span>
-            <h3>MOMENTO’ s style</h3>
+            <h3>MOMENTO’ s styles</h3>
             <p>
               #모멘토는 스페인어로 “순간" 이라는 뜻으로,
               <br />
