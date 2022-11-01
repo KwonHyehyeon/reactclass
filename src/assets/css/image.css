@@ -18,15 +18,17 @@
 .image {
   width: 49%;
   height: 370px;
-  padding: 200px 30px 30px 30px; /*글씨 옮기려고 넣는것*/
-  box-sizing: border-box; /*패딩을 쓰면 그만큼 커지기 때문에 이를 방지하는 것*/
   color: #fff;
+  padding: 200px 30px 30px 30px;
+  box-sizing: border-box;
+  overflow: hidden;
+  transition: all 0.15s ease-in-out;
 }
 .image.img1 {
-  background: url(../img/img01.jpg) no-repeat center / cover;
+  background: url(../img/img01.jpg) no-repeat center;
 }
 .image.img2 {
-  background: url(../img/img02.jpg) no-repeat center / cover;
+  background: url(../img/img02.jpg) no-repeat center;
 }
 .image__title {
   font-size: 32px;

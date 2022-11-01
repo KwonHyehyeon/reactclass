@@ -2,12 +2,12 @@ import React from "react";
 import Header from "./components/layout/Header";
 import Main from "./components/layout/Main";
 import Footer from "./components/layout/Footer";
-import Slider from "./components/section/Slider";
-import Image from "./components/section/Image";
-import ImageText from "./components/section/ImageText";
-import Card from "./components/section/Card";
-import Banner from "./components/section/Banner";
-import Text from "./components/section/Text";
+import Slider from "./components/section2/Slider";
+import Image from "./components/section2/Image";
+import ImageText from "./components/section2/ImageText";
+import Card from "./components/section2/Card";
+import Banner from "./components/section2/Banner";
+import Text from "./components/section2/Text";
 
 function App() {
   return (

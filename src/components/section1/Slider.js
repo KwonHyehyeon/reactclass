@@ -20,7 +20,7 @@ function Slider(props) {
           className="mySwiper"
         >
           <SwiperSlide>
-            <div class="desc">
+            <div className="desc">
               <span>STORE</span>
               <h3>MOMENTO’ s style</h3>
               <p>
@@ -28,16 +28,16 @@ function Slider(props) {
                 <br />
                 당신의 아름다운 순간을 선물해드립니다.
               </p>
-              <div class="btn">
+              <div className="btn">
                 <a href="/">자세히보기</a>
-                <a href="/" class="black">
+                <a href="/" className="black">
                   쇼핑가기
                 </a>
               </div>
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div class="desc">
+            <div className="desc">
               <span>STORE</span>
               <h3>MOMENTO’ s style</h3>
               <p>
@@ -45,16 +45,16 @@ function Slider(props) {
                 <br />
                 당신의 아름다운 순간을 선물해드립니다.
               </p>
-              <div class="btn">
+              <div className="btn">
                 <a href="/">자세히보기</a>
-                <a href="/" class="black">
+                <a href="/" className="black">
                   쇼핑가기
                 </a>
               </div>
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div class="desc">
+            <div className="desc">
               <span>STORE</span>
               <h3>MOMENTO’ s style</h3>
               <p>
@@ -62,9 +62,9 @@ function Slider(props) {
                 <br />
                 당신의 아름다운 순간을 선물해드립니다.
               </p>
-              <div class="btn">
+              <div className="btn">
                 <a href="/">자세히보기</a>
-                <a href="/" class="black">
+                <a href="/" className="black">
                   쇼핑가기
                 </a>
               </div>
